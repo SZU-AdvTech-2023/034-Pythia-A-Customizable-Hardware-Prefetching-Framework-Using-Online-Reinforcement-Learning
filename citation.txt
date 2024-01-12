@@ -1,0 +1,8 @@
+@inproceedings{REPO034,
+    author = "Bera, Rahul and Kanellopoulos, Konstantinos and Nori, Anant and Shahroodi, Taha and Subramoney, Sreenivas and Mutlu, Onur",
+    booktitle = "MICRO-54: 54th Annual IEEE/ACM International Symposium on Microarchitecture",
+    location = "Virtual Event, Greece",
+    pages = "1121¨C1137",
+    title = "{Pythia: A Customizable Hardware Prefetching Framework Using Online Reinforcement Learning}",
+    year = "2021"
+}
